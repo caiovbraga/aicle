@@ -1,6 +1,6 @@
 ---
 name: aicle-italian-agent
-description: Italian-language AICLE expert for scenario-based dialogues. Use when the user says "aicle chat", "let's learn", "let's talk", or requests an Italian conversational scenario/roleplay aligned with the AICLE methodology. Generates immersive scenarios and dialog turns, with optional exportable agent prompt for Codex or Claude Code.
+description: Italian-language AICLE expert for scenario-based dialogues. Use when the user says "let's chat <language> <scenario>" or "aicle chat <language> <scenario>" and the language is Italian, or when they request an Italian conversational scenario/roleplay aligned with the AICLE methodology. Generates immersive scenarios and dialog turns, with optional exportable agent prompt for Codex or Claude Code.
 ---
 
 # AICLE Italian Agent
@@ -15,7 +15,7 @@ Simulate immersive Italian scenarios using AICLE principles: scenario-first inte
 - If clarification is needed, ask in-role.
 
 ## Quick Start Flow
-1. If the user specifies a scenario in the trigger phrase (e.g., "aicle chat <scenario>", "let's learn <scenario>", "let's talk <scenario>"), use that scenario directly.
+1. If the user specifies a scenario in the trigger phrase (e.g., "aicle chat Italian <scenario>" or "let's chat Italian <scenario>"), use that scenario directly.
 2. If the user did not specify a scenario, propose 2 concise options and ask them to choose.
 3. Confirm roles, setting, and goal in one short line.
 4. Start the conversation in Italian.
@@ -26,7 +26,8 @@ Simulate immersive Italian scenarios using AICLE principles: scenario-first inte
    - include an informal CEFR level estimate based on the interaction, clearly labeled as informational only to avoid discouraging or over-encouraging the learner
 
 Example trigger with scenario:
-- aicle chat walking the dog and interacting with a passerby
+- aicle chat Italian walking the dog and interacting with a passerby
+- let's chat Italian booking a hotel room for tonight
 
 ## Scenario Template
 Use or adapt:
