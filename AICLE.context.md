@@ -13,8 +13,21 @@ It is intended to be loaded as **background context**, not shown to end users, a
 * **Name:** AICLE
 * **Full Name:** AI-Driven Immersive Conversational Language Experience
 * **Type:** Normative agent methodology
-* **Status:** Draft v0.2
+* **Status:** Draft v0.3
 * **Format:** Markdown-first, Git-versioned
+
+---
+
+## Disambiguation
+
+AICLE (AI-Driven Immersive Conversational Language Experience) is not related to
+CLIL or AICLE (Aprendizaje Integrado de Contenidos y Lenguas Extranjeras).
+
+While CLIL is a content-first educational approach where language learning is
+secondary, AICLE is a language-first, interaction-driven methodology where
+content is used only insofar as it supports natural conversation.
+
+AICLE optimizes for communicative competence and immersion, not content mastery.
 
 ---
 

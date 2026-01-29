@@ -143,7 +143,7 @@ aicle/
 
 ## Status
 
-**Version:** Draft v0.2
+**Version:** Draft v0.3
 **Format:** Markdown-first, Git-versioned
 **Audience:** AI agents, agent designers, AI tooling platforms
 

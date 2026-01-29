@@ -15,6 +15,8 @@ AICLE is **not** a curriculum, product, or teaching method for humans. It is a *
 
 The methodology is language-agnostic and tooling-agnostic, and can be implemented across products, applications, websites, and future voice or wearable interfaces.
 
+Note: AICLE is unrelated to CLIL (Content and Language Integrated Learning) or its Spanish equivalent "Aprendizaje Integrado de Contenidos y Lenguas Extranjeras".
+
 ---
 
 ## 1. Problem Statement
@@ -314,7 +316,7 @@ AICLE does NOT aim to:
 
 ## 9. Status and Versioning
 
-**Status:** Draft v0.2
+**Status:** Draft v0.3
 **Format:** Markdown-first
 **Intended for:** version-controlled evolution (e.g. Git repositories)
 

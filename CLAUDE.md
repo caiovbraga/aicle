@@ -17,7 +17,7 @@ aicle/
 
 ## Key Files
 
-- **`methodology/AICLE.md`**: The canonical source for AICLE methodology (Draft v0.2)
+- **`methodology/AICLE.md`**: The canonical source for AICLE methodology (Draft v0.3)
 - **`AICLE.context.md`**: Combined context file intended for agent ingestion - includes methodology summary plus usage guidance
 
 ## Working with This Repository
