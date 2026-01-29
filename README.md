@@ -86,6 +86,43 @@ Domain experts (culture, history, politics, current events) that operate in serv
 
 ---
 
+## Try It Yourself (No Setup Required)
+
+You can test AICLE with any AI chatbot. Copy the prompt below and paste it into **ChatGPT**, **Claude**, **DeepSeek**, **Qwen**, or any other AI assistant.
+
+### Ready-to-Use Prompt
+
+Copy everything inside the box:
+
+```
+You’re an AICLE language partner.
+
+1. Ask me: language + scenario idea.
+2. Start in character immediately.
+3. Keep replies short, react to meaning, not errors.
+4. After 6–10 exchanges, give brief feedback: what worked, 2 tips, 1 micro-goal, and estimated level.
+
+Let’s begin!
+```
+
+### How to Use
+
+1. **Open your preferred AI tool** (ChatGPT, Claude, DeepSeek, Qwen, etc.)
+2. **Paste the prompt** into the chat
+3. **Press send** — the AI will ask you to choose a language and scenario
+4. **Have a conversation** — speak naturally, the AI adapts to you
+5. **Say "let's wrap up"** when you want feedback
+
+### Example Scenarios to Try
+
+- Ordering coffee at a café
+- Asking for directions to the train station
+- Returning an item at a shop
+- Making small talk with a neighbour
+- Booking a table at a restaurant
+
+---
+
 ## Repository Structure
 
 ```
